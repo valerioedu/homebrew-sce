@@ -2,7 +2,7 @@ class Sce < Formula
     desc "SCE - Simple Code Editor"
     homepage "https://github.com/valerioedu/SCE2"
     url "https://github.com/valerioedu/SCE2/archive/refs/tags/v1.1.0.tar.gz"
-    sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+    sha256 "e6568097fc3004bc446655672a54935f3d0e2ec740d41f1b169247eb714c30f4"
     license "GPL-3.0"
 
     depends_on "cmake" => :build
